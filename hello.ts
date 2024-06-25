@@ -1,4 +1,5 @@
-const num1:number = 10;
-const num2:number = 10;
+function sum(a, b) {
+    return a + b;
+};
 
-console.log(num1 + num2)
+console.log(sum(2,5))
